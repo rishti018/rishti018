@@ -16,7 +16,7 @@
 
 I'm a **B.E. Computer Science** student at **Chandigarh University** (2024–2028, CGPA: 8.35) who loves turning complex problems into elegant solutions. I bridge the gap between **solid software engineering** and **cutting-edge AI/Quantum tech**.
 
-- 🔭 **Currently interning at Intel Corporation** — Building a Hybrid Quantum-Classical Neural Network for medical imaging.
+- ✅ **Recently completed my internship at Intel Corporation** — Built a Hybrid Quantum-Classical Neural Network for medical imaging.
 - 🌱 **Learning:** Quantum Machine Learning (Qiskit, PennyLane) & Full-stack IoT systems.
 - 🎯 **Open to:** SDE / ML Internship & full-time roles starting 2026.
 - ⚡ **Fun fact:** I love optimizing code as much as I love optimizing my daily schedule!
@@ -55,9 +55,10 @@ I'm a **B.E. Computer Science** student at **Chandigarh University** (2024–202
 ## 💼 Experience
 
 **Intel Corporation** — *AI for Workforce Program, Intern*  
-📅 May 2026 – Jun 2026
+📅 May 2026 – July 2026
 - Designed a **Hybrid Quantum-Classical Neural Network (HQCNN)** for pneumonia detection from Chest X-rays (EfficientNet-B4 backbone + 8-qubit PennyLane VQC).
 - Authored a research paper benchmarking the model against 25+ state-of-the-art models (2022–2025).
+- 🏆 **Successfully completed the internship program with hands-on experience in Quantum AI research.**
 
 ---
 
