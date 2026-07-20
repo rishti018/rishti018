@@ -40,7 +40,7 @@ I'm a **B.E. Computer Science** student at **Chandigarh University** (2024–202
 
 ### 🏥 [MediAlert] — Full-Stack IoT Health Monitoring
 > **Tech:** React, Node.js, IoT Sensors, ML, WebSockets  
-> A real-time health ecosystem that tracks vitals, predicts symptoms via ML, offers live doctor chat, and triggers SOS alerts in emergencies.
+> A real-time health ecosystem that tracks vitals, predicts symptoms via ML, offers live doctor chat, and triggers SOS alerts in emergencies. 
 
 ### 🌍 [Carbon Emission Predictor] — Eco-Travel ML Model
 > **Tech:** Python, Scikit-Learn, Pandas, NumPy  
