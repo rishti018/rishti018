@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishti018@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=rishti018&style=for-the-badge&color=blueviolet)](https://github.com/rishti018)
 
-</div>
+</div> 
 
 ---   
 
