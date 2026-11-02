@@ -3,6 +3,11 @@
 # ✨ Hi, I'm Rishti Nagpal
 
 ### 🚀 Software Developer | Full-Stack • ML • Quantum Computing
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="220" alt="Cute girl coding on a laptop"/>
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishti-nagpal-1003b431b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishti018@gmail.com)
